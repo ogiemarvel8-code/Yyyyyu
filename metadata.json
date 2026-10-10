@@ -1,0 +1,6 @@
+{
+  "name": "ApexShield Roofing Abuja",
+  "description": "Modern, premium roofing services in Abuja, FCT. Stone coated tiles, aluminium longspan, and step tiles with 10 years no-leak warranty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
